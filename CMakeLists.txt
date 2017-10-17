@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 2.8)
+project( ipcamera )
+find_package( OpenCV REQUIRED )
+add_executable( ipcamera ipcamera.cpp )
+target_link_libraries( ipcamera ${OpenCV_LIBS} )

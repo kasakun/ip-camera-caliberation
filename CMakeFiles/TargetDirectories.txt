@@ -1,0 +1,3 @@
+/home/chenzy/Desktop/Opencv/camera/CMakeFiles/edit_cache.dir
+/home/chenzy/Desktop/Opencv/camera/CMakeFiles/rebuild_cache.dir
+/home/chenzy/Desktop/Opencv/camera/CMakeFiles/ipcamera.dir
