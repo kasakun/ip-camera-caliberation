@@ -1,6 +1,7 @@
-# ip-camera-caliberation
-
-This project is the pre-project for the pose detetction. The goal is to use opencv to connect a ip camera and do the caliberation.
+# IP Camera
+Run IP Camera on Android phone. 
+The iphone I use is Samgsung Galaxy S6 G9200 32GB.
+OpenCV Version: 2.4.13.4
 
 ## How to compile and run
 ```bash
